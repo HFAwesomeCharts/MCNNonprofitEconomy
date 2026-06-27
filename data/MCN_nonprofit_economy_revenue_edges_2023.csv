@@ -9,8 +9,8 @@ Donor-advised fund sponsors (national and community foundation only),Human Servi
 Donor-advised fund sponsors (national and community foundation only),International/foreign affairs,3.14
 Donor-advised fund sponsors (national and community foundation only),Public/societal benefit (minus national DAF sponsors),4.98
 Donor-advised fund sponsors (national and community foundation only),Foundations (minus community foundation DAF sponsors),-
-Donor-advised fund sponsors (national and community foundation only),Donor-advised fund sponsors (national and community foundation only) (loop),4.4
-Donor-advised fund sponsors (national and community foundation only) (loop),Donor-advised fund sponsors (national and community foundation only),4.4
+Donor-advised fund sponsors (national and community foundation only),Donor-advised fund sponsors (national and community foundation only) (ghost),4.4
+Donor-advised fund sponsors (national and community foundation only) (ghost),Donor-advised fund sponsors (national and community foundation only),4.4
 Donor-advised fund sponsors (national and community foundation only),Religious congregations,5.48
 Donor-advised fund sponsors (national and community foundation only),"Unknown, unclassified",0.4
 Individuals,"Arts, culture, humanities",8.72
@@ -35,8 +35,8 @@ Foundations (minus community foundation DAF sponsors),Hospitals and nursing home
 Foundations (minus community foundation DAF sponsors),Human Services,13.66
 Foundations (minus community foundation DAF sponsors),International/foreign affairs,4.9
 Foundations (minus community foundation DAF sponsors),Public/societal benefit (minus national DAF sponsors),6.57
-Foundations (minus community foundation DAF sponsors),Foundations (minus community foundation DAF sponsors) (loop),22.5
-Foundations (minus community foundation DAF sponsors) (loop),Foundations (minus community foundation DAF sponsors),22.5
+Foundations (minus community foundation DAF sponsors),Foundations (minus community foundation DAF sponsors) (ghost),22.5
+Foundations (minus community foundation DAF sponsors) (ghost),Foundations (minus community foundation DAF sponsors),22.5
 Foundations (minus community foundation DAF sponsors),Donor-advised fund sponsors (national and community foundation only),3.2
 Foundations (minus community foundation DAF sponsors),Religious congregations,23.43
 Foundations (minus community foundation DAF sponsors),"Unknown, unclassified",0
