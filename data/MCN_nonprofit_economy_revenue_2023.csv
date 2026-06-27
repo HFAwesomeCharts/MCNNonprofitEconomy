@@ -9,7 +9,8 @@
 8,Donor-advised fund sponsors (national and community foundation only),2,International/foreign affairs,3,3.14
 9,Donor-advised fund sponsors (national and community foundation only),2,Public/societal benefit (minus national DAF sponsors),3,4.98
 10,Donor-advised fund sponsors (national and community foundation only),2,Foundations (minus community foundation DAF sponsors),2,-
-11,Donor-advised fund sponsors (national and community foundation only),2,Donor-advised fund sponsors (national and community foundation only),2,4.4
+11,Donor-advised fund sponsors (national and community foundation only),2,Donor-advised fund sponsors (national and community foundation only) (loop),2,4.4
+,Donor-advised fund sponsors (national and community foundation only) (loop),2,Donor-advised fund sponsors (national and community foundation only),2,4.4
 12,Donor-advised fund sponsors (national and community foundation only),2,Religious congregations,3,5.48
 13,Donor-advised fund sponsors (national and community foundation only),2,"Unknown, unclassified",3,0.4
 14,Individuals,1,"Arts, culture, humanities",3,8.72
@@ -34,7 +35,8 @@
 33,Foundations (minus community foundation DAF sponsors),2,Human Services,3,13.66
 34,Foundations (minus community foundation DAF sponsors),2,International/foreign affairs,3,4.9
 35,Foundations (minus community foundation DAF sponsors),2,Public/societal benefit (minus national DAF sponsors),3,6.57
-36,Foundations (minus community foundation DAF sponsors),2,Foundations (minus community foundation DAF sponsors),2,22.5
+36,Foundations (minus community foundation DAF sponsors),2,Foundations (minus community foundation DAF sponsors) (loop),2,22.5
+,Foundations (minus community foundation DAF sponsors) (loop),2,Foundations (minus community foundation DAF sponsors),2,22.5
 37,Foundations (minus community foundation DAF sponsors),2,Donor-advised fund sponsors (national and community foundation only),2,3.2
 38,Foundations (minus community foundation DAF sponsors),2,Religious congregations,3,23.43
 39,Foundations (minus community foundation DAF sponsors),2,"Unknown, unclassified",3,0

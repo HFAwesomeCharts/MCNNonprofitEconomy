@@ -1,0 +1,24 @@
+﻿Node,Node Type,X,Y
+Donor-advised fund sponsors (national and community foundation only),Intermediary,0.55,0.36
+Donor-advised fund sponsors (national and community foundation only) (loop),Ghost,0.57,0.34
+Foundations (minus community foundation DAF sponsors),Intermediary,0.45,0.6
+Foundations (minus community foundation DAF sponsors) (loop),Ghost,0.47,0.68
+Program fees from private sources,Source,0.1,0.08
+Federal government,Source,0.1,0.2
+Individuals,Source,0.1,0.32
+State and local government,Source,0.1,0.44
+Investment Income,Source,0.1,0.56
+Bequests,Source,0.1,0.68
+Corporations,Source,0.1,0.8
+Federated Giving,Source,0.1,0.92
+Hospitals and nursing homes,Recipient,0.9,0.05
+Health (minus hospitals and nursing homes),Recipient,0.9,0.14
+Human Services,Recipient,0.9,0.23
+Colleges and universities,Recipient,0.9,0.32
+Education (minus colleges and universities),Recipient,0.9,0.41
+Public/societal benefit (minus national DAF sponsors),Recipient,0.9,0.5
+Religious congregations,Recipient,0.9,0.59
+International/foreign affairs,Recipient,0.9,0.68
+"Arts, culture, humanities",Recipient,0.9,0.77
+Environment and animals,Recipient,0.9,0.86
+"Unknown, unclassified",Recipient,0.9,0.95
