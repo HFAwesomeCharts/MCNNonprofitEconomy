@@ -1,24 +1,24 @@
 ﻿Node,Node Type,X,Y,X Offset,Y Offset
-Donor-advised fund sponsors (national and community foundation only),Intermediary Right,0.6,0.05,0.03,-0.007
-Donor-advised fund sponsors (national and community foundation only) (ghost),Ghost,0.65,0.05,0,0
-Foundations (minus community foundation DAF sponsors),Intermediary Right,0.33,0.07,0.02,-0.009
-Foundations (minus community foundation DAF sponsors) (ghost),Ghost,0.38,0.07,0,0
+Donor-advised fund sponsors (national and community foundation only),Intermediary Right,0.6,0.04,0.032,-0.007
+Donor-advised fund sponsors (national and community foundation only) (ghost),Ghost,0.63,0.0375,0,0
+Foundations (minus community foundation DAF sponsors),Intermediary Right,0.33,0.08,0.025,-0.01
+Foundations (minus community foundation DAF sponsors) (ghost),Ghost,0.355,0.0735,0,0
 Program fees from private sources,Source,0.1,0.86,0.02,-0.037
-Federal government,Source,0.1,0.77,0.02,-0.033
-State and local government,Source,0.1,0.68,0.02,-0.035
+Federal government,Source,0.1,0.77,0.02,-0.025
+State and local government,Source,0.1,0.68,0.02,-0.028
 Federated Giving,Source,0.1,0.59,0.02,-0.0012
-Investment Income,Source,0.1,0.5,0.02,-0.001
+Investment Income,Source,0.1,0.5,0.02,-0.0005
 Corporations,Source,0.1,0.41,0.02,0.001
-Bequests,Source,0.1,0.32,0.02,0.028
-Individuals,Source,0.1,0.23,0.02,0.028
-Hospitals and nursing homes,Recipient,0.9,0.95,0.02,-0.036
-Health (minus hospitals and nursing homes),Recipient,0.9,0.86,0.02,-0.027
-Human Services,Recipient,0.9,0.77,0.02,-0.021
-Colleges and universities,Recipient,0.9,0.68,0.02,-0.032
-Education (minus colleges and universities),Recipient,0.9,0.59,0.02,0.001
-Public/societal benefit (minus national DAF sponsors),Recipient,0.9,0.5,0.02,0.001
-Religious congregations,Recipient,0.9,0.41,0.02,0.001
-International/foreign affairs,Recipient,0.9,0.32,0.02,0.04
-"Arts, culture, humanities",Recipient,0.9,0.23,0.02,0.02
-Environment and animals,Recipient,0.9,0.14,0.02,0.03
-"Unknown, unclassified",Recipient,0.9,0.05,0.02,0.025
+Bequests,Source,0.1,0.32,0.02,0.02
+Individuals,Source,0.1,0.23,0.02,0.023
+Hospitals and nursing homes,Recipient,0.9,0.95,0.02,-0.03
+Health (minus hospitals and nursing homes),Recipient,0.9,0.86,0.02,-0.022
+Human Services,Recipient,0.9,0.77,0.02,-0.018
+Colleges and universities,Recipient,0.9,0.68,0.02,-0.027
+Education (minus colleges and universities),Recipient,0.9,0.59,0.02,0.0007
+Public/societal benefit (minus national DAF sponsors),Recipient,0.9,0.5,0.02,0.0005
+Religious congregations,Recipient,0.9,0.41,0.02,0.0005
+International/foreign affairs,Recipient,0.9,0.32,0.02,0.03
+"Arts, culture, humanities",Recipient,0.9,0.23,0.02,0.016
+Environment and animals,Recipient,0.9,0.14,0.02,0.029
+"Unknown, unclassified",Recipient,0.9,0.05,0.02,0.022
