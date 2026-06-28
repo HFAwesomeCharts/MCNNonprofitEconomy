@@ -1,4 +1,6 @@
 data/MCN_501c3s_990_part_viii_revenue_2023.zip
 data/MCN_all_DAF_grants_2023.zip
 data/output_MCN_revenue_breakout_2023_2023_20260422_152357.csv
-output/
+output/MCN_revenue_breakouts_2023.csv
+output/AllDAF_grants_no_DAF2DAF.csv
+output/AllDAF_grants.csv
