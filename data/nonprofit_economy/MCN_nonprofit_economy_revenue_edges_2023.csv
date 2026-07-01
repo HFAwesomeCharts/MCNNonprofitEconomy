@@ -1,110 +1,110 @@
 ﻿Source,Recipient,Amount
-Donor-advised fund sponsors (national and community foundation only),"Arts, culture, humanities",3.42
-Donor-advised fund sponsors (national and community foundation only),Education (minus colleges and universities),6.99
-Donor-advised fund sponsors (national and community foundation only),Colleges and universities,6.82
-Donor-advised fund sponsors (national and community foundation only),Environment and animals,3.41
-Donor-advised fund sponsors (national and community foundation only),Health (minus hospitals and nursing homes),3.49
-Donor-advised fund sponsors (national and community foundation only),Hospitals and nursing homes,2.15
-Donor-advised fund sponsors (national and community foundation only),Human Services,9.38
-Donor-advised fund sponsors (national and community foundation only),International/foreign affairs,3.14
-Donor-advised fund sponsors (national and community foundation only),Public/societal benefit (minus national DAF sponsors),4.98
-Donor-advised fund sponsors (national and community foundation only),Foundations (minus community foundation DAF sponsors),-
-Donor-advised fund sponsors (national and community foundation only),Donor-advised fund sponsors (national and community foundation only) (ghost),4.4
-Donor-advised fund sponsors (national and community foundation only) (ghost),Donor-advised fund sponsors (national and community foundation only),4.4
-Donor-advised fund sponsors (national and community foundation only),Religious congregations,5.48
-Donor-advised fund sponsors (national and community foundation only),"Unknown, unclassified",0.4
-Individuals,"Arts, culture, humanities",8.72
-Individuals,Education (minus colleges and universities),18.62
-Individuals,Colleges and universities,11.9
-Individuals,Environment and animals,6.54
-Individuals,Health (minus hospitals and nursing homes),13.14
-Individuals,Hospitals and nursing homes,6.48
-Individuals,Human Services,30.51
-Individuals,International/foreign affairs,10.9
-Individuals,Public/societal benefit (minus national DAF sponsors),21.79
-Individuals,Foundations (minus community foundation DAF sponsors),70.8
-Individuals,Donor-advised fund sponsors (national and community foundation only),68.67
-Individuals,Religious congregations,97.72
-Individuals,"Unknown, unclassified",0
-Foundations (minus community foundation DAF sponsors),"Arts, culture, humanities",3.89
-Foundations (minus community foundation DAF sponsors),Education (minus colleges and universities),8.33
-Foundations (minus community foundation DAF sponsors),Colleges and universities,5.33
-Foundations (minus community foundation DAF sponsors),Environment and animals,2.92
-Foundations (minus community foundation DAF sponsors),Health (minus hospitals and nursing homes),5.88
-Foundations (minus community foundation DAF sponsors),Hospitals and nursing homes,2.92
-Foundations (minus community foundation DAF sponsors),Human Services,13.66
-Foundations (minus community foundation DAF sponsors),International/foreign affairs,4.9
-Foundations (minus community foundation DAF sponsors),Public/societal benefit (minus national DAF sponsors),6.57
-Foundations (minus community foundation DAF sponsors),Foundations (minus community foundation DAF sponsors) (ghost),22.5
-Foundations (minus community foundation DAF sponsors) (ghost),Foundations (minus community foundation DAF sponsors),22.5
-Foundations (minus community foundation DAF sponsors),Donor-advised fund sponsors (national and community foundation only),3.2
-Foundations (minus community foundation DAF sponsors),Religious congregations,23.43
-Foundations (minus community foundation DAF sponsors),"Unknown, unclassified",0
-Bequests,"Arts, culture, humanities",1.6
-Bequests,Education (minus colleges and universities),3.43
-Bequests,Colleges and universities,2.2
-Bequests,Environment and animals,1.2
-Bequests,Health (minus hospitals and nursing homes),2.42
-Bequests,Hospitals and nursing homes,1.2
-Bequests,Human Services,5.63
-Bequests,International/foreign affairs,2.02
-Bequests,Public/societal benefit (minus national DAF sponsors),4.03
-Bequests,Foundations (minus community foundation DAF sponsors),9.27
-Bequests,Donor-advised fund sponsors (national and community foundation only),Unknown
-Bequests,Religious congregations,9.66
-Bequests,"Unknown, unclassified",0
-Federated Giving,"Arts, culture, humanities",0.13
-Federated Giving,Education (minus colleges and universities),0.27
-Federated Giving,Colleges and universities,0.17
-Federated Giving,Environment and animals,0.1
-Federated Giving,Health (minus hospitals and nursing homes),0.19
-Federated Giving,Hospitals and nursing homes,0.1
-Federated Giving,Human Services,0.45
-Federated Giving,International/foreign affairs,0.16
-Federated Giving,Public/societal benefit (minus national DAF sponsors),0.32
-Federated Giving,Foundations (minus community foundation DAF sponsors),0.73
-Federated Giving,Donor-advised fund sponsors (national and community foundation only),Unknown
-Federated Giving,Religious congregations,0.76
-Federated Giving,"Unknown, unclassified",0
-Corporations,"Arts, culture, humanities",1.37
-Corporations,Education (minus colleges and universities),2.94
-Corporations,Colleges and universities,1.88
-Corporations,Environment and animals,1.03
-Corporations,Health (minus hospitals and nursing homes),2.07
-Corporations,Hospitals and nursing homes,1.03
-Corporations,Human Services,4.82
-Corporations,International/foreign affairs,1.73
-Corporations,Public/societal benefit (minus national DAF sponsors),3.45
-Corporations,Foundations (minus community foundation DAF sponsors),7.94
-Corporations,Donor-advised fund sponsors (national and community foundation only),Unknown
-Corporations,Religious congregations,8.27
-Corporations,"Unknown, unclassified",0
-State and local government,"Arts, culture, humanities",9.56
-State and local government,Education (minus colleges and universities),33.34
-State and local government,Colleges and universities,20.11
-State and local government,Environment and animals,7.45
-State and local government,Health (minus hospitals and nursing homes),14.17
-State and local government,Hospitals and nursing homes,8.1
-State and local government,Human Services,59.4
-State and local government,International/foreign affairs,0.05
-State and local government,Public/societal benefit (minus national DAF sponsors),34.21
-State and local government,Foundations (minus community foundation DAF sponsors),16.25
-State and local government,Donor-advised fund sponsors (national and community foundation only),0
-State and local government,Religious congregations,0
-State and local government,"Unknown, unclassified",1.27
-Federal government,"Arts, culture, humanities",12.1
-Federal government,Education (minus colleges and universities),48.07
-Federal government,Colleges and universities,54.37
-Federal government,Environment and animals,4.59
-Federal government,Health (minus hospitals and nursing homes),62.82
-Federal government,Hospitals and nursing homes,54.21
-Federal government,Human Services,70.81
-Federal government,International/foreign affairs,29.35
-Federal government,Public/societal benefit (minus national DAF sponsors),97.64
-Federal government,Foundations (minus community foundation DAF sponsors),32.49
-Federal government,Donor-advised fund sponsors (national and community foundation only),0
-Federal government,Religious congregations,0
-Federal government,"Unknown, unclassified",2.55
+Donor-advised fund sponsors,"Arts, culture, humanities",2.68
+Donor-advised fund sponsors,Education (minus colleges and universities),6.48
+Donor-advised fund sponsors,Colleges and universities,5.26
+Donor-advised fund sponsors,Environment and animals,2.55
+Donor-advised fund sponsors,Health (minus hospitals and nursing homes),2.92
+Donor-advised fund sponsors,Hospitals and nursing homes,2.1
+Donor-advised fund sponsors,Human Services,7.76
+Donor-advised fund sponsors,International/foreign affairs,2.55
+Donor-advised fund sponsors,Public/societal benefit (minus national DAF sponsors),8.88
+Donor-advised fund sponsors,Foundations (minus community foundation DAF sponsors),
+Donor-advised fund sponsors,Donor-advised fund sponsors (ghost),4.4
+Donor-advised fund sponsors (ghost),Donor-advised fund sponsors,4.4
+Donor-advised fund sponsors,Religious congregations,4.54
+Donor-advised fund sponsors,"Unknown, unclassified",0.4
+Individuals,"Arts, culture, humanities",14.60
+Individuals,Education (minus colleges and universities),35.61
+Individuals,Colleges and universities,17.81
+Individuals,Environment and animals,12.41
+Individuals,Health (minus hospitals and nursing homes),30.44
+Individuals,Hospitals and nursing homes,21.10
+Individuals,Human Services,48.78
+Individuals,International/foreign affairs,25.80
+Individuals,Public/societal benefit (minus national DAF sponsors),47.06
+Individuals,Foundations (minus community foundation DAF sponsors),53.78
+Individuals,Donor-advised fund sponsors,56.29
+Individuals,Religious congregations,54.18
+Individuals,"Unknown, unclassified",1.26
+Foundations (minus community foundation DAF sponsors),"Arts, culture, humanities",4.07
+Foundations (minus community foundation DAF sponsors),Education (minus colleges and universities),10.55
+Foundations (minus community foundation DAF sponsors),Colleges and universities,1.46
+Foundations (minus community foundation DAF sponsors),Environment and animals,7.37
+Foundations (minus community foundation DAF sponsors),Health (minus hospitals and nursing homes),10.67
+Foundations (minus community foundation DAF sponsors),Hospitals and nursing homes,3.13
+Foundations (minus community foundation DAF sponsors),Human Services,11.13
+Foundations (minus community foundation DAF sponsors),International/foreign affairs,3.14
+Foundations (minus community foundation DAF sponsors),Public/societal benefit (minus national DAF sponsors),17.68
+Foundations (minus community foundation DAF sponsors),Foundations (minus community foundation DAF sponsors) (ghost),14.87
+Foundations (minus community foundation DAF sponsors) (ghost),Foundations (minus community foundation DAF sponsors),14.87
+Foundations (minus community foundation DAF sponsors),Donor-advised fund sponsors,3.20
+Foundations (minus community foundation DAF sponsors),Religious congregations,2.63
+Foundations (minus community foundation DAF sponsors),"Unknown, unclassified",0.64
+Bequests,"Arts, culture, humanities",2.04
+Bequests,Education (minus colleges and universities),4.97
+Bequests,Colleges and universities,2.72
+Bequests,Environment and animals,1.77
+Bequests,Health (minus hospitals and nursing homes),3.94
+Bequests,Hospitals and nursing homes,2.74
+Bequests,Human Services,6.67
+Bequests,International/foreign affairs,3.35
+Bequests,Public/societal benefit (minus national DAF sponsors),6.6
+Bequests,Foundations (minus community foundation DAF sponsors),6.13
+Bequests,Donor-advised fund sponsors,Unknown
+Bequests,Religious congregations,1.57
+Bequests,"Unknown, unclassified",0.2
+Federated Giving,"Arts, culture, humanities",0.19
+Federated Giving,Education (minus colleges and universities),0.46
+Federated Giving,Colleges and universities,0.25
+Federated Giving,Environment and animals,0.16
+Federated Giving,Health (minus hospitals and nursing homes),0.36
+Federated Giving,Hospitals and nursing homes,0.25
+Federated Giving,Human Services,0.62
+Federated Giving,International/foreign affairs,0.31
+Federated Giving,Public/societal benefit (minus national DAF sponsors),0.61
+Federated Giving,Foundations (minus community foundation DAF sponsors),0
+Federated Giving,Donor-advised fund sponsors,Unknown
+Federated Giving,Religious congregations,0.14
+Federated Giving,"Unknown, unclassified",0.02
+Corporations,"Arts, culture, humanities",1.75
+Corporations,Education (minus colleges and universities),4.25
+Corporations,Colleges and universities,2.33
+Corporations,Environment and animals,1.51
+Corporations,Health (minus hospitals and nursing homes),3.37
+Corporations,Hospitals and nursing homes,2.34
+Corporations,Human Services,5.71
+Corporations,International/foreign affairs,2.86
+Corporations,Public/societal benefit (minus national DAF sponsors),5.65
+Corporations,Foundations (minus community foundation DAF sponsors),5.25
+Corporations,Donor-advised fund sponsors,Unknown
+Corporations,Religious congregations,1.34
+Corporations,"Unknown, unclassified",0.17
+State and local government,"Arts, culture, humanities",4.51
+State and local government,Education (minus colleges and universities),37.21
+State and local government,Colleges and universities,10.10
+State and local government,Environment and animals,3.70
+State and local government,Health (minus hospitals and nursing homes),19.10
+State and local government,Hospitals and nursing homes,2.91
+State and local government,Human Services,46.91
+State and local government,International/foreign affairs,0.03
+State and local government,Public/societal benefit (minus national DAF sponsors),11.07
+State and local government,Foundations (minus community foundation DAF sponsors),0.40
+State and local government,Donor-advised fund sponsors,0.00
+State and local government,Religious congregations,0.00
+State and local government,"Unknown, unclassified",0.68
+Federal government,"Arts, culture, humanities",5.71
+Federal government,Education (minus colleges and universities),25.85
+Federal government,Colleges and universities,27.30
+Federal government,Environment and animals,2.28
+Federal government,Health (minus hospitals and nursing homes),29.88
+Federal government,Hospitals and nursing homes,19.44
+Federal government,Human Services,55.91
+Federal government,International/foreign affairs,19.18
+Federal government,Public/societal benefit (minus national DAF sponsors),31.61
+Federal government,Foundations (minus community foundation DAF sponsors),0.79
+Federal government,Donor-advised fund sponsors,0.00
+Federal government,Religious congregations,0.00
+Federal government,"Unknown, unclassified",1.94
 Program fees from private sources,"Arts, culture, humanities",14.7
 Program fees from private sources,Education (minus colleges and universities),78.61
 Program fees from private sources,Colleges and universities,194.1
@@ -115,7 +115,7 @@ Program fees from private sources,Human Services,148.38
 Program fees from private sources,International/foreign affairs,3.26
 Program fees from private sources,Public/societal benefit (minus national DAF sponsors),34.56
 Program fees from private sources,Foundations (minus community foundation DAF sponsors),1.03
-Program fees from private sources,Donor-advised fund sponsors (national and community foundation only),-
+Program fees from private sources,Donor-advised fund sponsors,0
 Program fees from private sources,Religious congregations,5.86
 Program fees from private sources,"Unknown, unclassified",8.52
 Investment Income,"Arts, culture, humanities",1.38
@@ -128,6 +128,6 @@ Investment Income,Human Services,3.38
 Investment Income,International/foreign affairs,0.62
 Investment Income,Public/societal benefit (minus national DAF sponsors),7.94
 Investment Income,Foundations (minus community foundation DAF sponsors),16.5
-Investment Income,Donor-advised fund sponsors (national and community foundation only),Unknown
+Investment Income,Donor-advised fund sponsors,Unknown
 Investment Income,Religious congregations,0.63
 Investment Income,"Unknown, unclassified",0.09

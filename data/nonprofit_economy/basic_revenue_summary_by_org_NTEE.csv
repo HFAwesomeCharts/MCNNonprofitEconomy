@@ -1,13 +1,13 @@
-NTEE_ACTIVITY,num_orgs,nongovt_contribs
-"Arts, Culture, Humanities",20956,21114283153.0
-Other Education,33899,51449069095.0
-Colleges and Universities,1709,28201722521.0
-Environment and Animals,12724,18290383212.0
-Other Health,21764,40780553179.0
-Hospitals and Nursing Homes,5514,28364111422.0
-Human Services,79729,69113552096.0
-"International, Foreign Affairs",5847,34655562905.0
-"Public, Societal Benefit",21498,68379245784.0
-Foundations,4877,41670716058.0
-Religion Related,12941,16258975986.0
-"Unknown, Unclassified",2257,2021495591.0
+NTEE_ACTIVITY,num_orgs,nongovt_contribs,govt_grants
+"Arts, Culture, Humanities",20956,21114283153.0,7575420951.0
+Other Education,33899,51449069095.0,46711175998.0
+Colleges and Universities,1709,28201722521.0,27699677742.0
+Environment and Animals,12724,18290383212.0,4433741387.0
+Other Health,21764,40780553179.0,36283734705.0
+Hospitals and Nursing Homes,5514,28364111422.0,16555397925.0
+Human Services,79729,69113552096.0,76159994288.0
+"International, Foreign Affairs",5847,34655562905.0,14206695368.0
+"Public, Societal Benefit",21498,68379245784.0,31645231971.0
+Foundations,4877,41670716058.0,887681282.0
+Religion Related,12941,16258975986.0,678818354.0
+"Unknown, Unclassified",2257,2021495591.0,1944195618.0
