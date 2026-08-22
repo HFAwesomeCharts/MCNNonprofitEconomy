@@ -4,21 +4,21 @@ Donor-advised fund sponsors (ghost),Ghost,0.63,0.0375,0,0
 Foundations (minus community foundation DAF sponsors),Intermediary Right,0.33,0.08,0.025,-0.01
 Foundations (minus community foundation DAF sponsors) (ghost),Ghost,0.355,0.0745,0,0
 Program fees from private sources,Source,0.1,0.86,0.02,-0.037
-Federal government,Source,0.1,0.77,0.02,-0.025
-State and local government,Source,0.1,0.68,0.02,-0.028
+Federal government,Source,0.1,0.77,0.02,-0.0305
+State and local government,Source,0.1,0.68,0.02,-0.032
 Federated Giving,Source,0.1,0.59,0.02,-0.0012
-Investment Income,Source,0.1,0.5,0.02,-0.0005
-Corporations,Source,0.1,0.41,0.02,0.001
-Bequests,Source,0.1,0.32,0.02,0.02
-Individuals,Source,0.1,0.23,0.02,0.023
-Hospitals and nursing homes,Recipient,0.9,0.95,0.02,-0.03
-Health (minus hospitals and nursing homes),Recipient,0.9,0.86,0.02,-0.022
-Human Services,Recipient,0.9,0.77,0.02,-0.018
-Colleges and universities,Recipient,0.9,0.68,0.02,-0.027
-Education (minus colleges and universities),Recipient,0.9,0.59,0.02,0.0007
-Public/societal benefit (minus national DAF sponsors),Recipient,0.9,0.5,0.02,0.0005
-Religious congregations,Recipient,0.9,0.41,0.02,0.0005
-International/foreign affairs,Recipient,0.9,0.32,0.02,0.03
-"Arts, culture, humanities",Recipient,0.9,0.23,0.02,0.016
-Environment and animals,Recipient,0.9,0.14,0.02,0.029
-"Unknown, unclassified",Recipient,0.9,0.05,0.02,0.022
+Investment Income,Source,0.1,0.5,0.02,-0.001
+Corporations,Source,0.1,0.41,0.02,-0.001
+Bequests,Source,0.1,0.32,0.02,0.023
+Individuals,Source,0.1,0.23,0.02,0.025
+Hospitals and nursing homes,Recipient,0.9,0.95,0.02,-0.038
+Health (minus hospitals and nursing homes),Recipient,0.9,0.86,0.02,-0.028
+Human Services,Recipient,0.9,0.77,0.02,-0.0228
+Colleges and universities,Recipient,0.9,0.68,0.02,-0.0325
+Education (minus colleges and universities),Recipient,0.9,0.59,0.02,-0.001
+Public/societal benefit (minus national DAF sponsors),Recipient,0.9,0.5,0.02,-0.001
+Religious congregations,Recipient,0.9,0.41,0.02,-0.00005
+International/foreign affairs,Recipient,0.9,0.32,0.02,0.0335
+"Arts, culture, humanities",Recipient,0.9,0.23,0.02,0.018
+Environment and animals,Recipient,0.9,0.14,0.02,0.032
+"Unknown, unclassified",Recipient,0.9,0.05,0.02,0.015
