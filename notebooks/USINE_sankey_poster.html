@@ -1,9 +1,11 @@
 
+<!DOCTYPE html>
+
 <html>
 
 <head>
 
-<meta charset="utf-8" />
+<meta charset="utf-8">
 
 <style>
 
@@ -11,74 +13,46 @@ html,
 body {
     margin: 0;
     padding: 0;
-    background: white;
     width: 100%;
     height: 100%;
     overflow: hidden;
+    background: white;
 }
 
 
 /* ----------------------------------------------------------
-   OUTER CONTAINER
-
-   This represents the browser window.
-   ---------------------------------------------------------- */
-
-.sankey-wrapper {
-    position: relative;
-
-    width: 100vw;
-    height: 100vh;
-
-    overflow: hidden;
-}
-
-
-/* ----------------------------------------------------------
-   SANKEY
-
-   The SVG itself is 1056 x 1440 px.
-
-   We give it an explicit large box first, then rotate
-   the entire box 90 degrees.
-
-   After rotation, it becomes approximately:
-
-       1440 px wide
-       1056 px tall
+   THE SVG IS GIVEN A LARGE, EXPLICIT BOX.
+   THEN THAT ENTIRE BOX IS ROTATED.
    ---------------------------------------------------------- */
 
 .sankey {
     position: absolute;
 
-    top: 50%;
-    left: 50%;
-
     width: 1056px;
     height: 1440px;
 
-    transform: translate(-50%, -50%) rotate(90deg);
-    transform-origin: center center;
+    top: 50%;
+    left: 50%;
 
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    transform:
+        translate(-50%, -50%)
+        rotate(90deg);
+
+    transform-origin: center center;
 }
 
 
 /* ----------------------------------------------------------
-   SVG IMAGE
-
-   Force the SVG to fill the large box.
+   THE SVG IS LOADED AS A SEPARATE DOCUMENT.
    ---------------------------------------------------------- */
 
-.sankey img {
+.sankey iframe {
     display: block;
 
-    width: 100%;
-    height: 100%;
+    width: 1056px;
+    height: 1440px;
 
-    object-fit: fill;
+    border: none;
 }
 
 </style>
@@ -88,19 +62,13 @@ body {
 
 <body>
 
+<div class="sankey">
 
-<div class="sankey-wrapper">
-
-    <div class="sankey">
-
-        <img
-            src="USINE_sankey_poster.svg"
-        >
-
-    </div>
+    <iframe
+        src="USINE_sankey_poster.svg">
+    </iframe>
 
 </div>
-
 
 </body>
 
