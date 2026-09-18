@@ -1,51 +1,107 @@
-<!DOCTYPE html>
+
 <html>
+
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rotated Figure</title>
 
-    <style>
-        html, body {
-            margin: 0;
-            width: 100%;
-            height: 100%;
-            overflow: hidden;
-            background: white;
-        }
+<meta charset="utf-8" />
 
-        .wrapper {
-            position: absolute;
-            top: 50%;
-            left: 50%;
+<style>
 
-            width: 100vh;
-            height: 100vw;
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: white;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
 
-            transform: translate(-50%, -50%) rotate(90deg);
-            transform-origin: center center;
 
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
+/* ----------------------------------------------------------
+   OUTER CONTAINER
 
-        .wrapper img {
-            display: block;
+   This represents the browser window.
+   ---------------------------------------------------------- */
 
-            width: 100%;
-            height: 100%;
+.sankey-wrapper {
+    position: relative;
 
-            object-fit: contain;
-        }
-    </style>
+    width: 100vw;
+    height: 100vh;
+
+    overflow: hidden;
+}
+
+
+/* ----------------------------------------------------------
+   SANKEY
+
+   The SVG itself is 1056 x 1440 px.
+
+   We give it an explicit large box first, then rotate
+   the entire box 90 degrees.
+
+   After rotation, it becomes approximately:
+
+       1440 px wide
+       1056 px tall
+   ---------------------------------------------------------- */
+
+.sankey {
+    position: absolute;
+
+    top: 50%;
+    left: 50%;
+
+    width: 1056px;
+    height: 1440px;
+
+    transform: translate(-50%, -50%) rotate(90deg);
+    transform-origin: center center;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+/* ----------------------------------------------------------
+   SVG IMAGE
+
+   Force the SVG to fill the large box.
+   ---------------------------------------------------------- */
+
+.sankey img {
+    display: block;
+
+    width: 100%;
+    height: 100%;
+
+    object-fit: fill;
+}
+
+</style>
+
 </head>
+
 
 <body>
 
-    <div class="wrapper">
-        <img src="USINE_sankey_poster.svg">
+
+<div class="sankey-wrapper">
+
+    <div class="sankey">
+
+        <img
+            src="USINE_sankey_poster.svg"
+        >
+
     </div>
 
+</div>
+
+
 </body>
+
 </html>
