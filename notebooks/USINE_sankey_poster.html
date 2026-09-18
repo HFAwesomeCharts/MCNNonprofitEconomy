@@ -2,13 +2,16 @@
 <html>
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Rotated Figure</title>
+
     <style>
         html, body {
             margin: 0;
             width: 100%;
             height: 100%;
             overflow: hidden;
+            background: white;
         }
 
         body {
@@ -18,10 +21,14 @@
         }
 
         img {
-            transform: rotate(90deg) scale(2);
+            width: 100vh;
+            height: 100vw;
+            object-fit: contain;
+            transform: rotate(90deg);
         }
     </style>
 </head>
+
 <body>
     <img src="USINE_sankey_poster.svg">
 </body>
