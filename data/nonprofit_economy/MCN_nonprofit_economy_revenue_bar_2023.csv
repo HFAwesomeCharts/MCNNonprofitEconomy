@@ -1,8 +1,8 @@
 ﻿Activity Area Original,Activity Area,Year,Revenue Adjusted for Inflation
 Hospitals and nursing homes,Hospitals/nursing homes,2006,895
 Hospitals and nursing homes,Hospitals/nursing homes,2009,896
-Hospitals and nursing homes,Hospitals/nursing homes,2015,"1,239"
-Hospitals and nursing homes,Hospitals/nursing homes,2023,"1,296"
+Hospitals and nursing homes,Hospitals/nursing homes,2015,1239
+Hospitals and nursing homes,Hospitals/nursing homes,2023,1296
 Higher Education,Colleges/universities,2006,242
 Higher Education,Colleges/universities,2009,192
 Higher Education,Colleges/universities,2015,328
@@ -27,6 +27,14 @@ Religious Congregations,Religious congregations,2006,181
 Religious Congregations,Religious congregations,2009,143
 Religious Congregations,Religious congregations,2015,129
 Religious Congregations,Religious congregations,2023,137
+Donor-Advised Funds,Donor-Advised Funds,2006,0
+Donor-Advised Funds,Donor-Advised Funds,2009,10
+Donor-Advised Funds,Donor-Advised Funds,2015,28
+Donor-Advised Funds,Donor-Advised Funds,2023,65
+Private Foundations,Private Foundations,2006,41
+Private Foundations,Private Foundations,2009,43
+Private Foundations,Private Foundations,2015,40
+Private Foundations,Private Foundations,2023,61
 Arts,Arts & culture,2006,48
 Arts,Arts & culture,2009,41
 Arts,Arts & culture,2015,57
